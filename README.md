@@ -1,4 +1,4 @@
-###
+### jQuery-Tags-Input
 ---
 
 ```
